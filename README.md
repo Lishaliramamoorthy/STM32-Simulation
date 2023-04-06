@@ -12,7 +12,11 @@ STEP 1: Open Proteus software.
 
 STEP 2: Create the firmware input for the experiment.
 
-STEP 3: 
+STEP 3: Pick the necessary parts such as capacitor,resistor and led.
+
+STEP 4: Create the code for the STM in STM ide.
+
+STEP 5: Open the STM code and run the simulation.
 
 ## CIRCUIT DIAGRAM:
 
