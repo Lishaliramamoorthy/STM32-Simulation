@@ -24,7 +24,7 @@ STEP 5: Open the STM code and run the simulation.
 
 ## SIMULATION OUTPUT:
 
-
+![Screenshot (2)](https://user-images.githubusercontent.com/75237886/230289730-bc16d7a8-9cb1-401b-9a70-dd2364775106.png)
 
 ## RESULT:
 Hence, the schematic and simulation for the embedded system has been implemented successfully.
