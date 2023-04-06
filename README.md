@@ -8,9 +8,11 @@ To draw the schematic and simulate the embedded system for the given requirement
 
 ## STEPS:
 
-STEP 1: Open Proteus software.\n
-STEP 2: Create the firmware input for the experiment.\n
-sTEP 3: 
+STEP 1: Open Proteus software.
+
+STEP 2: Create the firmware input for the experiment.
+
+STEP 3: 
 
 ## CIRCUIT DIAGRAM:
 
