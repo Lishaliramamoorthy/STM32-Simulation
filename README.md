@@ -20,11 +20,13 @@ STEP 5: Open the STM code and run the simulation.
 
 ## CIRCUIT DIAGRAM:
 
-![Screenshot (1)](https://user-images.githubusercontent.com/75237886/230287916-33edc19d-79a9-4788-94f4-1a9f460352db.png)
+![Uploading exp 2-1.png…]()
+
 
 ## SIMULATION OUTPUT:
 
-![Screenshot (2)](https://user-images.githubusercontent.com/75237886/230289730-bc16d7a8-9cb1-401b-9a70-dd2364775106.png)
+![exp 2-2](https://github.com/Lishaliramamoorthy/STM32-Simulation/assets/75237886/48830552-fd6e-44a5-a05c-283a50d74df6)
+
 
 ## RESULT:
 Hence, the schematic and simulation for the embedded system has been implemented successfully.
